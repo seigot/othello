@@ -26,3 +26,9 @@ If you wish to restart or create a new game, you may press the "Restart" button 
 - Player turn indicator
 - Restart/Quit GUI
 - Animation for changing tiles
+
+
+# TODO
+以下を参考に対戦ゲームに改造する予定
+[（初心者向け）Pythonでオセロを作ってみよう](https://qiita.com/KProgramed/items/b6592b15348adce2a9ea#comments)
+[Reversi_Othello](https://github.com/kmnsys/Reversi_Othello)
