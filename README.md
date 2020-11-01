@@ -32,3 +32,9 @@ If you wish to restart or create a new game, you may press the "Restart" button 
 以下を参考に対戦ゲームに改造する予定<br>
 [（初心者向け）Pythonでオセロを作ってみよう](https://qiita.com/KProgramed/items/b6592b15348adce2a9ea#comments)<br>
 [Reversi_Othello](https://github.com/kmnsys/Reversi_Othello)<br>
+<br>
+AIは維持<br>
+プレイヤーのプログラムを作りやすくしたい<br>
+クラス分割はqiitaを参考にしたい<br>
+UIはpyqt5にしたい<br>
+<br>
